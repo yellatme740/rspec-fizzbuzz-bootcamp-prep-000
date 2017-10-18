@@ -3,4 +3,5 @@ def fizzbuzz(num)
     return "Fizz"
   else
     return "FizzBuzz"
+  end
 end
